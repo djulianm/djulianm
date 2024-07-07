@@ -64,9 +64,3 @@ I'm passionate about technology, I started working with technology because my fa
 
 </details>
 
- ### Leetcode
-  <div align="center">
-
-  ![LeetCode Stats](https://leetcode.card.workers.dev/djulianm?theme=auto&font=baloo&extension=null)
-
-  </div>
