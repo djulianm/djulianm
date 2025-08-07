@@ -15,7 +15,13 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://bitbucket.org/djulian_mazzardo" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="nerobr" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/djulianm" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/djulianm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 I'm passionate about technology, I started working with technology because my father had a computer store and I helped him with computer maintenance, I started programming because I wanted to have extra money to travel and buy games, I "invested" a lot of my time and social life in games and programming. In 2007 it became my profession.</h3>**
+<p align="left">🚀 I started working with technology in my early teens, helping at my father’s computer store with maintenance and setup. What began as curiosity quickly evolved into a professional career in 2007.
+
+Since then, I’ve worked as a full-stack developer and tech lead, delivering robust web applications and maintaining complex infrastructures. I've been involved in major enterprise projects, including the Sadia x Perdigão (BRF) integration, and led the development of SaaS products like ClicMed for the healthcare sector.
+
+My technical background includes PHP (Zend, Laravel), ColdFusion, Node.js, JavaScript, jQuery, Bootstrap, and SQL databases like MySQL, Oracle, PostgreSQL, and SQL Server. I also handle infrastructure and DevOps tasks using AWS, Jenkins, Git, Capistrano, and CI/CD best practices.
+
+Currently at Viscaweb, I contribute as a PHP Developer and Tech Lead, focusing on system architecture, performance, and helping the team deliver scalable and maintainable solutions.</p>
 
 **<h3 align="left">Rapid Fire</h3>**
 
